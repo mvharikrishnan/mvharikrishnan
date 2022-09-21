@@ -16,7 +16,7 @@
 - :computer: I am a competitive programmer mainly at  `Flutter`
 - :student: I completed: `Bachelor Degree` in Computer Application `BCA`.
 
-- :nerd_face: Always `learning new things`<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=salsalvm&show_icons=true&locale=en&layout=compact" alt="salsalvm" />
+- :nerd_face: Always `learning new things`<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mvharikrishnan&show_icons=true&locale=en&layout=compact" alt="mvharikrishnan" />
  <!-- &nbsp;<i><b>Proficient With</i>  <br/> -->
 &nbsp;<i><b>PROFICIENT WITH<hr/>
  <p align="left"> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -31,7 +31,7 @@
  &nbsp;<i><b>Recent GitHub Activity</b></i>
  
 
-   <a href="https://github.com/salsalvm"><img alt="Harikrishnan Mv's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=salsalvm&custom_title=salsalvm's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/salsalvm"><img alt="Harikrishnan Mv's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mvharikrishnan&custom_title=mvharikrishnan's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 </p>
 
@@ -42,7 +42,7 @@
 
  &nbsp;<i><b>Streak Rate</b></i><br><br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=salsalvm&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mvharikrishnan&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <hr>
 
@@ -55,7 +55,7 @@
 <p align="center">
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=salsalvm&theme=radical&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=mvharikrishnan&theme=radical&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
 </p>
@@ -93,7 +93,7 @@
 
   <!-- retro visitor counter -->  
 <p align="center" >   
-  <img src="https://profile-counter.glitch.me/salsalvm/count.svg" />  
+  <img src="https://profile-counter.glitch.me/mvharikrishnan/count.svg" />  
 </p>
 <hr>
 
