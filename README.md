@@ -31,7 +31,7 @@
  &nbsp;<i><b>Recent GitHub Activity</b></i>
  
 
-   <a href="https://github.com/salsalvm"><img alt="salsalvm's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=salsalvm&custom_title=salsalvm's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/salsalvm"><img alt="Harikrishnan Mv's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=salsalvm&custom_title=salsalvm's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 </p>
 
