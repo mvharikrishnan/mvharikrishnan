@@ -2,13 +2,13 @@
 <!-- [![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ) -->
  
 <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Salsal+%F0%9F%91%8B;FLUTTER-Developer;Problem+Solver;Open-Source+Enthusiast" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Hari Krishnan M v+%F0%9F%91%8B;FLUTTER-Developer;Problem+Solver;Open-Source+Enthusiast" alt="Headline" />
     </div>
 
 <hr>
 
 &nbsp;<i><b>About Me</i>
-<h1 align="center">Hi 👋, I'm  HARIKRISHNAN MV</h1>
+<h1 align="center">Hi 👋, I'm  Hari Krishnan M v </h1>
  
 
 - :school: I am an `Intern` at Brototype
@@ -31,7 +31,7 @@
  &nbsp;<i><b>Recent GitHub Activity</b></i>
  
 
-   <a href="https://github.com/salsalvm"><img alt="Harikrishnan Mv's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mvharikrishnan&custom_title=mvharikrishnan's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/mvharikrishnan"><img alt="mvharikrishnan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mvharikrishnan&custom_title=mvharikrishnan's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 </p>
 
@@ -73,19 +73,19 @@
  &nbsp;<i><b>Can Connect With Me On</b></i>
  
  <p align="center"><br>
-<a href="https://www.linkedin.com/in/salsal-vm-9b9214232/" target="_blank">
+<a href="https://www.linkedin.com/in/Hari Krishnan M v-vm-9b9214232/" target="_blank">
   <img align="center" alt="Rahul Dhanola | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
 </a> &nbsp;&nbsp;
-<a href="https://twitter.com/salsalvm" target="_blank">
+<a href="https://twitter.com/mvharikrishnan" target="_blank">
   <img align="center" alt="Rahul Dhanola | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
 </a> &nbsp;&nbsp;
 <a href="https://www.instagram.com/_vava_____/" target="_blank">
   <img align="center" alt="Rahul Dhanola | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
 </a> &nbsp;&nbsp;
-<a href="mailto:salsalvm1997@gmail.com" >
+<a href="mailto:mvharikrishnan1997@gmail.com" >
   <img align="center" alt="Rahul Dhanola | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
 </a> &nbsp;&nbsp;
-<a href="https://www.facebook.com/salsalvm97">
+<a href="https://www.facebook.com/mvharikrishnan97">
     <img align="center" alt="Rahul Dhanola | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
 </a> &nbsp;&nbsp;
 <p>
