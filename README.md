@@ -11,7 +11,7 @@
 <h1 align="center">Hi 👋, I'm  Hari Krishnan M v </h1>
  
 
-- :school: I am an `Intern` at Brototype
+- :school: I am an `Flutter Developer Trainee` at Brototype
 - :technologist: I love using Software as a solution for every  `Problem`
 - :computer: I am a competitive programmer mainly at  `Flutter`
 - :student: I completed: `Bachelor Degree` in Computer Application `BCA`.
